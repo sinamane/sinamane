@@ -1,9 +1,9 @@
 <h1>Hello there, I'm Amanda 👋</h1>
 
 🎓&nbsp;I have a Bachelor's degree in Informaics Information Systems from the University of Pretoria.<br>
-🌱nbsp;I’m currently learning React.<br>
+🌱nbsp;I’m currently learning Python.<br>
 ⚡ Fun fact: I like to learn new languages and crochet in my free time
-
+<!-- 
 
 <h2>👨‍💻 Software Development Projects:</h2>
  - [Web Application Using API](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -19,7 +19,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor -->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
