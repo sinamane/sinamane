@@ -1,7 +1,7 @@
 <h1>Hello there, I'm Amanda 👋</h1>
 
-🎓 I have a Bachelor's degree in Informaics Information Systems from the University of Pretoria.<br>
-🌱 I’m currently learning how make webapp with Python and Flask.<br>
+🎓 I have a Bachelor's degree in Informatics Information Systems from the University of Pretoria.<br>
+🌱 I’m currently learning how to create a snake game with c#.<br>
 ⚡ Fun fact: I like to learn new languages and crochet in my free time
 <!-- 
 
